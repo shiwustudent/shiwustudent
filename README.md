@@ -6,7 +6,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 [![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/shiwustudent/)
 [![](https://img.shields.io/badge/Bilibili-black?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/335877425)
-[![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/)
+[![](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/shiwutongxue/)
+
 
 ### 📱 Devices
 
@@ -21,7 +22,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 💻 Activity Graph
 
-![](https://activity-graph.herokuapp.com/graph?username=shiwustudent&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=shiwustudent&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
 
 ### 😜 Commit Stats
 
